@@ -1,0 +1,18 @@
+app.models
+.predict(
+Clarifai.COLOR_MODEL,
+    // URL
+    "https://samples.clarifai.com/metro-north.jpg"
+)
+.then(function(response) {
+    // do something with responseconsole.log(response);
+    },
+    function(err) {// there was an error}
+);
+
+Clarifai.FACE_DETECT_MODEL
+
+
+fb1bd5533ac94a609cb4a0fefb52639b
+
+Logo:{/* <a target="_blank" href="https://icons8.com/icons/set/brain">Brain icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */ }
